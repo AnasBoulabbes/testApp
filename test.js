@@ -5,7 +5,7 @@ var d = 0
 var e = 1
 var f = 2
 var g = null
-
+//dummyComment
 console.log(a || b); // 'word'
 console.log(c || a); // true
 console.log(b || a); // 'word'
